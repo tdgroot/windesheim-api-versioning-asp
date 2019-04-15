@@ -1,6 +1,6 @@
 # windesheim-api-versioning-asp
 
-A demo project showing how to implement API versioning in an ASP.NET Core.
+A demo project showing how to implement API versioning in ASP.NET Core.
 
 ## Routes
 
